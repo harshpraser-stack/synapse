@@ -1,0 +1,5 @@
+{
+  "name": "QuestionCraft AI",
+  "description": "AI-powered question paper generator with interactive knowledge graphs and n8n integration.",
+  "requestFramePermissions": []
+}
